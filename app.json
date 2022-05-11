@@ -10,5 +10,5 @@
         }
     },
     "repository": "https://github.com/heshan2/heroku-xray-server",
-    "stack": "container"
+    "stack": "container" #
 }
